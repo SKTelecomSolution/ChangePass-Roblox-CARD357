@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "Key_tool": "",
+        "so_luong": 12
+    },
+    "proxy": {
+        "username": "",
+        "password": "",
+        "host": "",
+        "port": ""
+    },
+    "Changepass": {
+        "dinhdang": ":",
+        "Changepass_random": true,
+        "Changepass_theoymuon": false,
+        "NamePassTheoYMuon": ""
+    }
+}
